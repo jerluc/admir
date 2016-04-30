@@ -1,14 +1,7 @@
-@font-face {
-  font-family: Fira;
-  src: url(fonts/FiraSans-Light.ttf);
-  font-weight: normal;
-}
-
-
 body {
     background-color: #000000;
     color: #bbbbbb;
-    font: 32px 'Fira Sans', sans-serif;
+    font: 32px 'Open Sans', sans-serif;
     margin: 0;
     padding: 0;
 }
